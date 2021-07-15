@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, 
+I'm a software developer and designer looking at the convergence of technology and our day-to-day lives.
+
+I have a masters degree in architecture, but moved to software development to open up the possibilities of what I could build.
+
+I enjoy learning about Linux, microcontrollers and IoT.
+
+* Current Project: I'm working on an embedded [meditation device](https://github.com/mdiedricks/meditation_device) that detaches you from your mobile phone.
+* Currently Learning: backend development through CodeAcademy
+* Need help with: If you're open to share some knowledge with me I have some questions about C++ programming 
+
 
 <!--
 **mdiedricks/mdiedricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
