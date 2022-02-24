@@ -6,8 +6,8 @@ I have a masters degree in architecture, but moved to software development to op
 I enjoy learning about Linux, microcontrollers and IoT.
 
 * Current Project: I'm working on an embedded [meditation device](https://github.com/mdiedricks/meditation_device) that detaches you from your mobile phone.
-* Currently Learning: backend development through CodeAcademy
-* Need help with: C++ programming. If you're open for a chat, I would love to ask some questions about C++ concepts. 
+* Currently Learning: Scala and Typescript
+* Need help with: How to reason about ✨ Functional programming ✨ 
 * Find me on [LinkedIn](https://www.linkedin.com/in/mdiedricks/?originalSubdomain=au)
 
 
