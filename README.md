@@ -4,8 +4,8 @@ I have a masters degree in architecture, but moved to software development to op
 
 I enjoy learning about cooking, languages and tool optimisation.
 
-* Current Project: ...personal projects on hold for the moment
-* Currently Learning: Scala and ✨ Functional programming ✨ 
+* Current Project: ... personal projects on hold for the moment
+* Currently Learning: Scala and ✨Functional programming✨ 
 * Find me on [LinkedIn](https://www.linkedin.com/in/mdiedricks/?originalSubdomain=au)
 
 
